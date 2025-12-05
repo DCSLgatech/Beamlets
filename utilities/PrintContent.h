@@ -12,7 +12,7 @@
 #include <vector>
 #include <list>
 
-#include "Beamlet.h"
+#include "../Beamlet.h"
 
 std::ostream&
 operator<<(std::ostream& output, const std::vector<int> & data);

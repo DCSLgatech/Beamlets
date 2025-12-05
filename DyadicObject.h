@@ -4,7 +4,6 @@
 #include "Cluster.h"
 #include "Key.h"
 
-
 class DyadicObject
 {
 private:
